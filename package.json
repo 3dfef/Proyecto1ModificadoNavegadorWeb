@@ -1,0 +1,15 @@
+{
+  "name": "1.0.1",
+  "version": "1.0.1",
+  "description": "Primer proyecto mostrado en pagina web",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yerson Andres Sequea Usme",
+  "license": "ISC"
+}

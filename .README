@@ -1,0 +1,9 @@
+Primer proyecto Yerson Andres Sequea Usme
+Comandos para iniciar :
+node principal : Muestra cursos con retardo de 2 segundos entre cada curso 
+node principal inscribir : Con este comando puedes inscribir a un estudiante rellenado las opciones id , nombre , cedula
+de esta forma = node principal inscribir -i= 'id del curso 1-3' -n='Nombre del estudiante' -c='Cedula del estudiante'
+y asi puedes inscribir a un estudiante y luego se guarda en la carpeta Matricula.txt donde se encuentran todos los 
+archivos.
+Para mostrar por el navegador se debe de abrir el navegador y en la zona donde se escriben los url
+debera escribir 'localhost:8080' para que muestre la inscripcion del usuario y sus datos.
